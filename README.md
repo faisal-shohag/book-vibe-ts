@@ -1,13 +1,7 @@
 # Books API Reference
 
-Book catalog API. Serves static JSON data (`books.json`) — no DB.
+Base URL: `https://phi-lab-server-three.vercel.app/api/v1/lab`
 
-Base URL: `/api/v1/lab`
-Deployed: https://phi-lab-server-three.vercel.app/api/v1/lab
-Source: `src/app/api/lab/apis/books/`
-- Controller: `books.controller.ts`
-- Routes: `lab.route.ts`
-- Data: `books.json`
 
 ## Data Shape
 
